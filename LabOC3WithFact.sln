@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabOC3WithFact", "LabOC3WithFact\LabOC3WithFact.csproj", "{B6FD77AB-B113-48AE-8648-44E59E4691BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChildrenProc", "ChildrenProc\ChildrenProc.csproj", "{84E28C02-CB15-4444-990F-3F2607ABE22F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6FD77AB-B113-48AE-8648-44E59E4691BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6FD77AB-B113-48AE-8648-44E59E4691BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6FD77AB-B113-48AE-8648-44E59E4691BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6FD77AB-B113-48AE-8648-44E59E4691BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84E28C02-CB15-4444-990F-3F2607ABE22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E28C02-CB15-4444-990F-3F2607ABE22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E28C02-CB15-4444-990F-3F2607ABE22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E28C02-CB15-4444-990F-3F2607ABE22F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CADBEC64-4FC1-43D4-8D62-7602EDD673CA}
+	EndGlobalSection
+EndGlobal
